@@ -13,6 +13,7 @@ class Program
     {
         Console.WriteLine(IsPalindrome("Ana"));                         
         Console.WriteLine(IsPalindrome("A man a plan a canal Panama"));
-        Console.WriteLine(IsPalindrome("Hello"));                       
+        Console.WriteLine(IsPalindrome("Hello"));
+        Console.WriteLine("Sula");
     }
 }
